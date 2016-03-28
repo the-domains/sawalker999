@@ -1,0 +1,28 @@
+name: sawalker999
+favicon: null
+layout_spectrum: 0.5471405067946762
+typography_spectrum: 0.9854505371768028
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6898820609785616
+  lightness: 0.8142017815262079
+  saturation: 0.10267635574564338
+  rhythmicContrast: 0.20423013414256275
+purpose: []
