@@ -1,8 +1,7 @@
+name: sawalker999
+favicon: null
 layout_spectrum: 0.5471405067946762
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.9854505371768028
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.1026763557456434
-  brandStrength: 0.6192266
-  lightness: 0.8142017815262079
-  brandColors:
-    - '#FFFFFF'
-    - '#0B0D0F'
-    - '#A3A26F'
-    - '#FCFF38'
-    - '#1F6E98'
-  rhythmicContrast: 0.2042301341425627
-typography_spectrum: 0.9854505371768028
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: sawalker999
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#bbc3c6'
+    - '#004564'
+    - '#ffffff'
+    - '#0284a8'
+    - '#03cfe8'
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.25
+purpose: []
